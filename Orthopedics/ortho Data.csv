@@ -1,0 +1,532 @@
+visit_date,visit_month,visit_day,timeframe,pat_id,pat_gender,pat_age,pat_sat_score,pat_lastname,pat_race,pat_admin_flag,pat_waittime,dept_referral
+"1/1/2023 13:00",January,Sunday,"1:00 PM",730-54-8361,M,59,,O'Lennachain,White,TRUE,45,Orthopedics
+"1/1/2023 17:25",January,Sunday,"5:00 PM",608-47-0337,F,22,,Boyle,White,TRUE,45,Orthopedics
+"1/2/2023 14:06",January,Monday,"2:00 PM",409-55-2108,M,6,,Buller,"African American",TRUE,19,Orthopedics
+"1/2/2023 21:16",January,Monday,"9:00 PM",771-94-6870,M,18,,Muccino,"African American",FALSE,55,Orthopedics
+"1/3/2023 4:38",January,Tuesday,"4:00 AM",299-16-0016,M,16,,Boulder,"Native American/Alaska Native",FALSE,20,Orthopedics
+"1/3/2023 5:57",January,Tuesday,"5:00 AM",357-69-5446,M,41,,Huetson,"Two or More Races",TRUE,57,Orthopedics
+"1/4/2023 3:07",January,Wednesday,"3:00 AM",323-73-5214,M,27,,Andrelli,"Native American/Alaska Native",FALSE,53,Orthopedics
+"1/4/2023 3:29",January,Wednesday,"3:00 AM",426-07-4984,F,11,4,Deluca,White,FALSE,42,Orthopedics
+"1/4/2023 14:54",January,Wednesday,"2:00 PM",323-99-0794,F,6,6,Ruselin,"African American",TRUE,42,Orthopedics
+"1/4/2023 16:54",January,Wednesday,"4:00 PM",705-51-2537,F,20,,Olyet,"Declined to Identify",TRUE,43,Orthopedics
+"1/5/2023 20:36",January,Thursday,"8:00 PM",374-08-6811,M,9,8,Broadis,"Declined to Identify",FALSE,30,Orthopedics
+"1/5/2023 22:58",January,Thursday,"10:00 PM",634-94-1438,M,27,,Baudichon,"Two or More Races",TRUE,49,Orthopedics
+"1/7/2023 10:32",January,Saturday,"10:00 AM",421-15-9145,M,77,3,Brunsen,Asian,TRUE,28,Orthopedics
+"1/7/2023 11:35",January,Saturday,"11:00 AM",672-75-7086,M,55,,McCaughan,"Two or More Races",FALSE,56,Orthopedics
+"1/7/2023 15:22",January,Saturday,"3:00 PM",767-96-0026,M,13,,Frammingham,Asian,FALSE,49,Orthopedics
+"1/7/2023 22:32",January,Saturday,"10:00 PM",804-80-4289,M,63,,Lomax,"Pacific Islander",FALSE,41,Orthopedics
+"1/8/2023 14:12",January,Sunday,"2:00 PM",488-61-3428,M,73,,Yegorchenkov,"Two or More Races",FALSE,38,Orthopedics
+"1/8/2023 18:39",January,Sunday,"6:00 PM",344-30-6145,M,64,10,Hardaker,"Two or More Races",TRUE,21,Orthopedics
+"1/9/2023 9:31",January,Monday,"9:00 AM",828-19-1085,M,32,,Gilfoy,"African American",TRUE,26,Orthopedics
+"1/9/2023 22:32",January,Monday,"10:00 PM",812-01-8966,M,24,,Bremond,"African American",FALSE,60,Orthopedics
+"1/10/2023 13:57",January,Tuesday,"1:00 PM",260-70-4444,M,46,,Temprell,White,TRUE,47,Orthopedics
+"1/10/2023 17:18",January,Tuesday,"5:00 PM",374-46-8007,M,11,,McLugish,White,TRUE,60,Orthopedics
+"1/11/2023 14:14",January,Wednesday,"2:00 PM",423-67-7757,F,66,,Seagrave,"African American",TRUE,60,Orthopedics
+"1/12/2023 9:37",January,Thursday,"9:00 AM",740-27-0503,F,30,,Lodwick,Asian,TRUE,49,Orthopedics
+"1/12/2023 21:21",January,Thursday,"9:00 PM",172-88-9711,M,61,,Fricke,"Two or More Races",TRUE,37,Orthopedics
+"1/13/2023 1:28",January,Friday,"1:00 AM",664-85-2224,F,5,,Shovell,"Declined to Identify",FALSE,30,Orthopedics
+"1/13/2023 4:08",January,Friday,"4:00 AM",402-85-5587,M,26,,Biggen,"Two or More Races",TRUE,42,Orthopedics
+"1/13/2023 11:39",January,Friday,"11:00 AM",302-68-9742,M,33,,Penylton,White,TRUE,32,Orthopedics
+"1/14/2023 1:16",January,Saturday,"1:00 AM",330-29-6460,M,45,4,Pennrington,"African American",FALSE,41,Orthopedics
+"1/14/2023 2:42",January,Saturday,"2:00 AM",106-06-0564,M,16,5,Mountlow,"Declined to Identify",TRUE,22,Orthopedics
+"1/14/2023 10:55",January,Saturday,"10:00 AM",155-01-1799,M,74,,Grew,"Pacific Islander",TRUE,15,Orthopedics
+"1/14/2023 11:35",January,Saturday,"11:00 AM",848-51-5434,M,62,,Skilton,"Two or More Races",FALSE,50,Orthopedics
+"1/14/2023 18:09",January,Saturday,"6:00 PM",558-62-7213,F,41,,McAneny,"Two or More Races",TRUE,23,Orthopedics
+"1/14/2023 21:59",January,Saturday,"9:00 PM",804-44-8560,F,74,,Capitano,Asian,FALSE,59,Orthopedics
+"1/15/2023 9:16",January,Sunday,"9:00 AM",236-71-7697,F,36,,Battabee,"Native American/Alaska Native",TRUE,34,Orthopedics
+"1/17/2023 7:25",January,Tuesday,"7:00 AM",229-98-0118,F,62,,Dugmore,"African American",TRUE,33,Orthopedics
+"1/17/2023 12:41",January,Tuesday,"12:00 PM",313-36-3938,F,4,,Heigold,White,TRUE,53,Orthopedics
+"1/18/2023 2:20",January,Wednesday,"2:00 AM",832-72-0329,F,25,,Lethbury,Asian,FALSE,44,Orthopedics
+"1/18/2023 11:38",January,Wednesday,"11:00 AM",757-22-3933,F,22,,Gosden,"Declined to Identify",FALSE,25,Orthopedics
+"1/18/2023 17:55",January,Wednesday,"5:00 PM",662-78-5868,M,15,6,Inskipp,"African American",TRUE,43,Orthopedics
+"1/18/2023 19:25",January,Wednesday,"7:00 PM",490-34-8816,M,52,,Sheddan,Asian,TRUE,18,Orthopedics
+"1/18/2023 22:04",January,Wednesday,"10:00 PM",355-78-2842,M,66,10,"Van Salzberger",Asian,TRUE,44,Orthopedics
+"1/20/2023 13:38",January,Friday,"1:00 PM",566-41-9643,F,49,9,Charlson,White,TRUE,45,Orthopedics
+"1/20/2023 22:53",January,Friday,"10:00 PM",540-19-1275,F,3,,Elford,"Pacific Islander",TRUE,54,Orthopedics
+"1/21/2023 15:36",January,Saturday,"3:00 PM",793-25-4580,M,78,,Chellenham,"Two or More Races",TRUE,23,Orthopedics
+"1/21/2023 15:53",January,Saturday,"3:00 PM",785-37-4017,F,31,,McCunn,"Declined to Identify",FALSE,22,Orthopedics
+"1/22/2023 1:20",January,Sunday,"1:00 AM",248-79-4235,M,20,10,Peake,"African American",FALSE,56,Orthopedics
+"1/22/2023 3:35",January,Sunday,"3:00 AM",843-76-4020,F,79,7,Bussy,White,TRUE,14,Orthopedics
+"1/22/2023 9:16",January,Sunday,"9:00 AM",176-79-9558,F,43,,Woolmington,"Native American/Alaska Native",TRUE,24,Orthopedics
+"1/23/2023 9:26",January,Monday,"9:00 AM",449-83-1904,F,29,,Bisacre,White,FALSE,37,Orthopedics
+"1/23/2023 15:26",January,Monday,"3:00 PM",167-77-4307,M,57,,Tunniclisse,"African American",TRUE,60,Orthopedics
+"1/23/2023 20:01",January,Monday,"8:00 PM",809-23-9007,M,50,,Cortes,"Pacific Islander",TRUE,29,Orthopedics
+"1/24/2023 13:49",January,Tuesday,"1:00 PM",514-75-2742,F,29,,Royle,White,FALSE,41,Orthopedics
+"1/24/2023 19:28",January,Tuesday,"7:00 PM",251-72-9605,F,35,,Gentry,"Two or More Races",FALSE,54,Orthopedics
+"1/25/2023 19:12",January,Wednesday,"7:00 PM",411-44-1446,F,65,,Stamper,Asian,TRUE,11,Orthopedics
+"1/26/2023 23:11",January,Thursday,"11:00 PM",287-09-1852,M,33,,Kollatsch,"Native American/Alaska Native",TRUE,25,Orthopedics
+"1/27/2023 0:58",January,Friday,"12:00 AM",458-91-1637,M,30,,Shrimpton,"Two or More Races",TRUE,15,Orthopedics
+"1/27/2023 4:21",January,Friday,"4:00 AM",538-56-3650,M,26,6,Dobell,White,TRUE,57,Orthopedics
+"1/28/2023 3:02",January,Saturday,"3:00 AM",342-20-9295,F,16,,Revey,Asian,TRUE,59,Orthopedics
+"1/28/2023 4:29",January,Saturday,"4:00 AM",327-14-9748,F,72,,Dance,White,TRUE,31,Orthopedics
+"1/29/2023 7:54",January,Sunday,"7:00 AM",404-61-7141,F,46,,Schuler,"Native American/Alaska Native",TRUE,47,Orthopedics
+"1/29/2023 8:11",January,Sunday,"8:00 AM",313-02-6855,M,74,,Ephgrave,"African American",FALSE,58,Orthopedics
+"1/29/2023 23:36",January,Sunday,"11:00 PM",385-77-2913,F,44,2,Syrad,"Pacific Islander",FALSE,56,Orthopedics
+"1/31/2023 5:49",January,Tuesday,"5:00 AM",676-76-2593,F,77,,Adamo,"Two or More Races",TRUE,14,Orthopedics
+"1/31/2023 16:28",January,Tuesday,"4:00 PM",754-26-5507,F,32,,Antonazzi,"African American",FALSE,33,Orthopedics
+"2/1/2023 3:01",February,Wednesday,"3:00 AM",481-25-8959,M,8,,O'Kinneally,"Pacific Islander",FALSE,33,Orthopedics
+"2/1/2023 6:47",February,Wednesday,"6:00 AM",493-10-9938,F,66,1,Haworth,"African American",FALSE,16,Orthopedics
+"2/2/2023 0:27",February,Thursday,"12:00 AM",208-42-8204,F,52,,Andrichuk,Asian,TRUE,58,Orthopedics
+"2/3/2023 6:56",February,Friday,"6:00 AM",612-96-3788,M,46,5,Mann,White,FALSE,32,Orthopedics
+"2/3/2023 10:36",February,Friday,"10:00 AM",416-95-3368,F,54,,Mushart,"African American",FALSE,19,Orthopedics
+"2/4/2023 7:00",February,Saturday,"7:00 AM",715-73-6259,M,24,,"Mc Gorley","Two or More Races",FALSE,30,Orthopedics
+"2/5/2023 1:40",February,Sunday,"1:00 AM",822-88-4417,M,33,,Bertenshaw,"Two or More Races",TRUE,35,Orthopedics
+"2/5/2023 12:06",February,Sunday,"12:00 PM",120-15-2623,M,48,,Subhan,Asian,FALSE,42,Orthopedics
+"2/5/2023 16:46",February,Sunday,"4:00 PM",554-45-2268,M,71,,Manoelli,White,TRUE,47,Orthopedics
+"2/5/2023 18:51",February,Sunday,"6:00 PM",231-60-4242,M,53,,Sapshed,"African American",TRUE,37,Orthopedics
+"2/6/2023 17:59",February,Monday,"5:00 PM",373-70-7925,M,16,,Dives,White,TRUE,37,Orthopedics
+"2/7/2023 12:12",February,Tuesday,"12:00 PM",804-04-1122,M,79,,Humpatch,White,TRUE,12,Orthopedics
+"2/8/2023 12:05",February,Wednesday,"12:00 PM",693-10-4073,F,33,4,McRobb,"Two or More Races",TRUE,48,Orthopedics
+"2/8/2023 18:29",February,Wednesday,"6:00 PM",256-81-6386,M,44,,Treslove,White,TRUE,19,Orthopedics
+"2/8/2023 18:52",February,Wednesday,"6:00 PM",785-59-9671,M,35,9,Mapston,"Two or More Races",TRUE,42,Orthopedics
+"2/8/2023 22:08",February,Wednesday,"10:00 PM",149-68-0241,F,40,,Hemerijk,White,TRUE,19,Orthopedics
+"2/8/2023 22:19",February,Wednesday,"10:00 PM",400-51-3029,F,41,4,Abdy,"Two or More Races",FALSE,49,Orthopedics
+"2/9/2023 12:24",February,Thursday,"12:00 PM",427-87-8857,M,40,,Pessler,Asian,TRUE,33,Orthopedics
+"2/10/2023 5:02",February,Friday,"5:00 AM",455-54-8491,F,71,,Yeskin,Asian,TRUE,29,Orthopedics
+"2/10/2023 9:30",February,Friday,"9:00 AM",840-85-3205,M,30,,Siemandl,"Declined to Identify",TRUE,49,Orthopedics
+"2/10/2023 10:19",February,Friday,"10:00 AM",389-53-3260,M,76,,Dudliston,"Two or More Races",FALSE,34,Orthopedics
+"2/10/2023 11:23",February,Friday,"11:00 AM",263-80-6685,F,58,,Bartkowiak,White,TRUE,19,Orthopedics
+"2/10/2023 23:31",February,Friday,"11:00 PM",554-09-0300,F,42,,Brierley,"African American",FALSE,56,Orthopedics
+"2/11/2023 1:22",February,Saturday,"1:00 AM",562-95-1851,M,74,,Daber,White,FALSE,53,Orthopedics
+"2/11/2023 1:32",February,Saturday,"1:00 AM",388-34-2380,F,46,,Normanton,"African American",TRUE,12,Orthopedics
+"2/11/2023 14:20",February,Saturday,"2:00 PM",895-70-7727,M,72,9,Yelden,"Pacific Islander",TRUE,47,Orthopedics
+"2/12/2023 20:04",February,Sunday,"8:00 PM",232-89-7136,M,65,,Silverthorne,White,FALSE,14,Orthopedics
+"2/14/2023 8:22",February,Tuesday,"8:00 AM",539-97-0120,F,25,,Ducker,Asian,FALSE,52,Orthopedics
+"2/14/2023 23:47",February,Tuesday,"11:00 PM",559-31-6017,F,25,,Heggman,White,TRUE,20,Orthopedics
+"2/15/2023 9:33",February,Wednesday,"9:00 AM",374-27-4733,F,47,5,Gaudon,Asian,FALSE,24,Orthopedics
+"2/16/2023 8:05",February,Thursday,"8:00 AM",320-85-0898,M,78,1,Paull,"Native American/Alaska Native",TRUE,28,Orthopedics
+"2/17/2023 21:50",February,Friday,"9:00 PM",721-25-3053,M,31,,Saffill,White,TRUE,49,Orthopedics
+"2/19/2023 3:55",February,Sunday,"3:00 AM",718-51-6818,F,54,,Cadalleder,"Native American/Alaska Native",TRUE,15,Orthopedics
+"2/19/2023 10:03",February,Sunday,"10:00 AM",620-19-3129,M,70,,Plumb,Asian,TRUE,55,Orthopedics
+"2/20/2023 2:31",February,Monday,"2:00 AM",422-02-1134,M,20,,Boole,"Declined to Identify",FALSE,52,Orthopedics
+"2/21/2023 18:26",February,Tuesday,"6:00 PM",833-39-1167,M,9,,Woof,"African American",TRUE,59,Orthopedics
+"2/22/2023 16:28",February,Wednesday,"4:00 PM",461-29-9107,M,73,8,Torbard,"African American",FALSE,32,Orthopedics
+"2/23/2023 20:16",February,Thursday,"8:00 PM",540-07-7543,F,54,1,Izakson,White,TRUE,60,Orthopedics
+"2/23/2023 23:38",February,Thursday,"11:00 PM",654-49-3579,M,15,,Alessandrucci,White,TRUE,38,Orthopedics
+"2/24/2023 15:35",February,Friday,"3:00 PM",852-57-5614,F,78,,Bury,"Pacific Islander",TRUE,37,Orthopedics
+"2/25/2023 5:46",February,Saturday,"5:00 AM",570-14-8462,M,24,,Meeland,White,TRUE,20,Orthopedics
+"2/25/2023 15:02",February,Saturday,"3:00 PM",777-67-6604,F,65,,Harsant,"African American",FALSE,29,Orthopedics
+"2/26/2023 15:57",February,Sunday,"3:00 PM",727-44-0682,F,1,,Gealy,"African American",TRUE,27,Orthopedics
+"2/26/2023 18:50",February,Sunday,"6:00 PM",535-66-6021,M,43,,Knotton,White,FALSE,11,Orthopedics
+"2/27/2023 16:24",February,Monday,"4:00 PM",372-50-6699,M,41,,Lutas,"Two or More Races",FALSE,48,Orthopedics
+"3/1/2023 2:31",March,Wednesday,"2:00 AM",439-72-3934,F,20,8,Morby,"Pacific Islander",TRUE,22,Orthopedics
+"3/1/2023 19:44",March,Wednesday,"7:00 PM",541-22-8120,F,53,,Shreeves,Asian,FALSE,48,Orthopedics
+"3/2/2023 9:50",March,Thursday,"9:00 AM",245-93-0711,F,67,,Oldknowe,"Two or More Races",TRUE,47,Orthopedics
+"3/2/2023 16:03",March,Thursday,"4:00 PM",293-18-7287,F,63,,Hortop,"African American",FALSE,49,Orthopedics
+"3/3/2023 2:02",March,Friday,"2:00 AM",264-24-7455,M,27,,Normanvill,Asian,TRUE,50,Orthopedics
+"3/3/2023 2:03",March,Friday,"2:00 AM",433-77-2388,M,1,,Robottom,"Two or More Races",FALSE,30,Orthopedics
+"3/3/2023 7:57",March,Friday,"7:00 AM",419-61-3209,M,55,,Hassett,Asian,TRUE,33,Orthopedics
+"3/3/2023 9:12",March,Friday,"9:00 AM",797-70-2349,F,55,,Wallwork,White,TRUE,25,Orthopedics
+"3/3/2023 9:51",March,Friday,"9:00 AM",211-48-9357,M,38,3,Brunner,"African American",FALSE,15,Orthopedics
+"3/3/2023 20:32",March,Friday,"8:00 PM",818-67-0399,F,45,1,Erlam,"Two or More Races",TRUE,60,Orthopedics
+"3/3/2023 22:53",March,Friday,"10:00 PM",309-34-4512,F,8,,Everill,"African American",FALSE,51,Orthopedics
+"3/4/2023 11:09",March,Saturday,"11:00 AM",402-60-5865,M,57,,Lovart,White,TRUE,56,Orthopedics
+"3/4/2023 16:58",March,Saturday,"4:00 PM",670-80-2997,M,11,2,Henningham,"African American",TRUE,39,Orthopedics
+"3/4/2023 23:35",March,Saturday,"11:00 PM",625-51-6051,F,56,,Sampey,"Two or More Races",TRUE,34,Orthopedics
+"3/5/2023 4:54",March,Sunday,"4:00 AM",140-14-3156,M,10,4,Sweedland,Asian,FALSE,57,Orthopedics
+"3/6/2023 7:40",March,Monday,"7:00 AM",330-45-2025,M,69,,Pitman,"Native American/Alaska Native",FALSE,31,Orthopedics
+"3/7/2023 3:34",March,Tuesday,"3:00 AM",580-12-9421,F,57,7,Aicken,White,FALSE,22,Orthopedics
+"3/8/2023 9:06",March,Wednesday,"9:00 AM",235-32-0067,F,69,,Durrant,"Declined to Identify",TRUE,26,Orthopedics
+"3/8/2023 11:40",March,Wednesday,"11:00 AM",736-55-3263,M,7,,Wolverson,"African American",TRUE,37,Orthopedics
+"3/8/2023 23:04",March,Wednesday,"11:00 PM",164-31-3790,F,24,,Baldetti,"Pacific Islander",FALSE,53,Orthopedics
+"3/9/2023 13:23",March,Thursday,"1:00 PM",758-30-1888,F,4,10,Hallowell,"Two or More Races",TRUE,29,Orthopedics
+"3/10/2023 3:17",March,Friday,"3:00 AM",531-05-3251,M,61,3,Velez,"Native American/Alaska Native",TRUE,41,Orthopedics
+"3/10/2023 22:02",March,Friday,"10:00 PM",393-38-9502,F,16,,Corpes,White,FALSE,39,Orthopedics
+"3/11/2023 17:06",March,Saturday,"5:00 PM",669-74-2146,F,58,,Bilby,"Declined to Identify",FALSE,55,Orthopedics
+"3/12/2023 10:12",March,Sunday,"10:00 AM",247-62-4290,M,66,,Lomansey,"Native American/Alaska Native",TRUE,28,Orthopedics
+"3/13/2023 4:45",March,Monday,"4:00 AM",367-49-7229,F,30,,Maynell,"Native American/Alaska Native",FALSE,36,Orthopedics
+"3/13/2023 16:29",March,Monday,"4:00 PM",284-23-4071,F,33,,Keasley,White,TRUE,43,Orthopedics
+"3/14/2023 2:46",March,Tuesday,"2:00 AM",685-40-5409,M,33,,Cancott,"Declined to Identify",TRUE,46,Orthopedics
+"3/14/2023 4:31",March,Tuesday,"4:00 AM",223-84-4462,M,35,,Cosely,Asian,FALSE,51,Orthopedics
+"3/14/2023 5:55",March,Tuesday,"5:00 AM",508-22-7761,M,14,3,Brabbins,"Declined to Identify",TRUE,50,Orthopedics
+"3/16/2023 13:53",March,Thursday,"1:00 PM",399-11-0047,M,39,,Gilvary,"Pacific Islander",TRUE,47,Orthopedics
+"3/17/2023 14:54",March,Friday,"2:00 PM",834-30-4050,M,26,,Theis,"Declined to Identify",TRUE,48,Orthopedics
+"3/17/2023 16:05",March,Friday,"4:00 PM",364-07-8056,M,69,,Sidsaff,White,FALSE,43,Orthopedics
+"3/17/2023 23:56",March,Friday,"11:00 PM",106-89-2099,M,2,,Metcalf,"Declined to Identify",TRUE,31,Orthopedics
+"3/19/2023 6:38",March,Sunday,"6:00 AM",885-02-5489,M,74,,Melsome,"African American",TRUE,28,Orthopedics
+"3/19/2023 10:15",March,Sunday,"10:00 AM",201-56-8126,M,60,,Daftor,"African American",TRUE,39,Orthopedics
+"3/20/2023 9:45",March,Monday,"9:00 AM",110-15-3555,F,70,,Veryan,"African American",FALSE,33,Orthopedics
+"3/20/2023 13:16",March,Monday,"1:00 PM",613-64-3858,M,54,8,Well,White,TRUE,21,Orthopedics
+"3/20/2023 14:08",March,Monday,"2:00 PM",602-80-4744,F,55,6,Huntall,"Two or More Races",TRUE,11,Orthopedics
+"3/20/2023 18:30",March,Monday,"6:00 PM",896-38-1209,M,10,9,Killiner,"Two or More Races",FALSE,20,Orthopedics
+"3/21/2023 9:05",March,Tuesday,"9:00 AM",582-24-8875,M,74,1,Gullberg,"African American",FALSE,21,Orthopedics
+"3/22/2023 8:34",March,Wednesday,"8:00 AM",811-97-1091,F,61,,Ryal,White,TRUE,53,Orthopedics
+"3/22/2023 23:43",March,Wednesday,"11:00 PM",231-43-5762,M,74,1,Northam,White,TRUE,45,Orthopedics
+"3/23/2023 7:45",March,Thursday,"7:00 AM",888-31-9974,NC,67,,Hatherley,White,FALSE,18,Orthopedics
+"3/25/2023 9:00",March,Saturday,"9:00 AM",697-97-4762,F,46,1,Fiddiman,"Two or More Races",TRUE,19,Orthopedics
+"3/25/2023 14:00",March,Saturday,"2:00 PM",765-95-5555,M,15,,Gasken,White,FALSE,59,Orthopedics
+"3/26/2023 12:14",March,Sunday,"12:00 PM",100-66-0896,M,2,6,Prickett,"African American",TRUE,23,Orthopedics
+"3/27/2023 6:32",March,Monday,"6:00 AM",679-23-8667,M,67,,Southernwood,"Two or More Races",TRUE,58,Orthopedics
+"3/27/2023 10:01",March,Monday,"10:00 AM",334-83-4102,F,16,,Pordall,White,FALSE,39,Orthopedics
+"3/27/2023 12:39",March,Monday,"12:00 PM",341-43-1062,M,11,,Fishlock,White,TRUE,35,Orthopedics
+"3/27/2023 15:55",March,Monday,"3:00 PM",634-38-7814,F,4,,Pagan,"African American",FALSE,45,Orthopedics
+"3/28/2023 7:54",March,Tuesday,"7:00 AM",454-17-8279,M,39,,Odgaard,"African American",FALSE,12,Orthopedics
+"3/28/2023 8:51",March,Tuesday,"8:00 AM",658-61-9044,M,71,,Sayles,"African American",FALSE,28,Orthopedics
+"3/28/2023 9:22",March,Tuesday,"9:00 AM",483-20-0302,F,47,,Dyzart,"African American",FALSE,30,Orthopedics
+"3/28/2023 19:07",March,Tuesday,"7:00 PM",233-13-0126,M,52,,Murdy,"African American",FALSE,12,Orthopedics
+"3/30/2023 10:13",March,Thursday,"10:00 AM",464-93-5592,M,33,7,Caslane,"Two or More Races",TRUE,19,Orthopedics
+"3/31/2023 0:02",March,Friday,"12:00 AM",188-24-3805,F,43,,Bourdis,White,FALSE,32,Orthopedics
+"3/31/2023 1:49",March,Friday,"1:00 AM",644-56-6799,M,43,,Kingzeth,White,FALSE,13,Orthopedics
+"3/31/2023 15:56",March,Friday,"3:00 PM",767-80-3235,M,53,,Jenk,White,TRUE,56,Orthopedics
+"4/1/2023 10:24",April,Saturday,"10:00 AM",869-40-4882,F,56,,Strover,White,FALSE,43,Orthopedics
+"4/1/2023 16:44",April,Saturday,"4:00 PM",685-14-2682,F,37,,Mityakov,"Native American/Alaska Native",TRUE,20,Orthopedics
+"4/2/2023 1:30",April,Sunday,"1:00 AM",697-02-7197,F,24,,Tregien,White,TRUE,54,Orthopedics
+"4/2/2023 6:03",April,Sunday,"6:00 AM",891-13-0532,F,7,,Dayes,"African American",FALSE,54,Orthopedics
+"4/3/2023 8:19",April,Monday,"8:00 AM",507-75-5145,F,22,,Guite,Asian,TRUE,52,Orthopedics
+"4/3/2023 19:53",April,Monday,"7:00 PM",697-61-8367,M,45,,Meeking,Asian,FALSE,37,Orthopedics
+"4/4/2023 6:37",April,Tuesday,"6:00 AM",541-10-2365,M,70,5,Rammell,"Declined to Identify",FALSE,41,Orthopedics
+"4/4/2023 7:23",April,Tuesday,"7:00 AM",679-29-9661,F,34,10,Geeves,"African American",FALSE,49,Orthopedics
+"4/4/2023 23:04",April,Tuesday,"11:00 PM",800-81-9945,F,22,7,Ridewood,White,FALSE,53,Orthopedics
+"4/5/2023 3:28",April,Wednesday,"3:00 AM",195-28-0276,M,77,2,Bulle,Asian,FALSE,19,Orthopedics
+"4/5/2023 21:47",April,Wednesday,"9:00 PM",736-20-4728,F,78,7,Danielsson,"Native American/Alaska Native",FALSE,54,Orthopedics
+"4/6/2023 9:59",April,Thursday,"9:00 AM",427-16-0688,F,61,,Snalum,"Declined to Identify",TRUE,29,Orthopedics
+"4/6/2023 10:22",April,Thursday,"10:00 AM",286-31-5737,F,34,,Louder,"Declined to Identify",FALSE,50,Orthopedics
+"4/7/2023 16:32",April,Friday,"4:00 PM",256-89-4612,M,58,5,Abelwhite,"Declined to Identify",TRUE,15,Orthopedics
+"4/7/2023 23:08",April,Friday,"11:00 PM",480-93-4605,M,24,7,Monro,"Two or More Races",FALSE,44,Orthopedics
+"4/9/2023 17:45",April,Sunday,"5:00 PM",213-44-8981,M,60,,Lebang,"Native American/Alaska Native",FALSE,49,Orthopedics
+"4/10/2023 18:43",April,Monday,"6:00 PM",689-34-0657,M,61,,Furmonger,White,TRUE,21,Orthopedics
+"4/10/2023 23:30",April,Monday,"11:00 PM",770-14-1224,M,63,,Yacob,"African American",TRUE,29,Orthopedics
+"4/12/2023 15:04",April,Wednesday,"3:00 PM",454-42-3319,M,27,,Kneaphsey,White,TRUE,21,Orthopedics
+"4/14/2023 22:38",April,Friday,"10:00 PM",706-06-7749,F,40,6,Campelli,Asian,TRUE,13,Orthopedics
+"4/16/2023 20:07",April,Sunday,"8:00 PM",845-69-9025,F,49,,Duffield,Asian,TRUE,58,Orthopedics
+"4/17/2023 9:49",April,Monday,"9:00 AM",749-62-2279,F,10,2,Gerhold,"African American",FALSE,30,Orthopedics
+"4/17/2023 22:02",April,Monday,"10:00 PM",374-49-5410,M,49,,Morgen,White,FALSE,21,Orthopedics
+"4/19/2023 16:42",April,Wednesday,"4:00 PM",592-41-3656,M,38,,Allard,Asian,FALSE,32,Orthopedics
+"4/19/2023 23:33",April,Wednesday,"11:00 PM",680-97-7540,F,4,7,Ost,"African American",TRUE,15,Orthopedics
+"4/21/2023 0:41",April,Friday,"12:00 AM",724-18-3560,F,36,,Waiting,"Pacific Islander",FALSE,22,Orthopedics
+"4/21/2023 7:11",April,Friday,"7:00 AM",485-49-0599,F,31,,Nel,"Two or More Races",FALSE,40,Orthopedics
+"4/21/2023 19:45",April,Friday,"7:00 PM",343-23-0272,F,65,,Mordan,Asian,TRUE,14,Orthopedics
+"4/22/2023 17:34",April,Saturday,"5:00 PM",240-88-0226,F,34,10,Christofides,"Native American/Alaska Native",TRUE,12,Orthopedics
+"4/22/2023 18:33",April,Saturday,"6:00 PM",115-72-7138,F,21,10,Guinnane,White,TRUE,18,Orthopedics
+"4/22/2023 23:21",April,Saturday,"11:00 PM",168-64-3036,M,78,,Casarini,White,FALSE,49,Orthopedics
+"4/23/2023 7:09",April,Sunday,"7:00 AM",125-12-2869,M,2,6,Dowbakin,"Two or More Races",FALSE,47,Orthopedics
+"4/24/2023 13:48",April,Monday,"1:00 PM",135-55-7285,M,34,,Reckus,Asian,TRUE,57,Orthopedics
+"4/25/2023 0:02",April,Tuesday,"12:00 AM",614-70-3664,M,41,,Mcasparan,Asian,TRUE,31,Orthopedics
+"4/25/2023 10:22",April,Tuesday,"10:00 AM",373-25-1214,F,3,,Boggis,"Two or More Races",TRUE,43,Orthopedics
+"4/26/2023 2:21",April,Wednesday,"2:00 AM",480-59-4442,F,33,,Gitting,Asian,FALSE,35,Orthopedics
+"4/26/2023 7:46",April,Wednesday,"7:00 AM",375-83-4532,F,42,,Baudoux,"Two or More Races",TRUE,56,Orthopedics
+"4/26/2023 9:01",April,Wednesday,"9:00 AM",665-04-6942,M,40,,Leyden,White,FALSE,23,Orthopedics
+"4/26/2023 9:04",April,Wednesday,"9:00 AM",452-46-7406,F,40,,Kenworthey,Asian,TRUE,42,Orthopedics
+"4/27/2023 2:32",April,Thursday,"2:00 AM",102-54-1653,F,50,2,Mowson,"African American",FALSE,51,Orthopedics
+"4/28/2023 11:02",April,Friday,"11:00 AM",608-48-4234,M,55,4,Smaling,Asian,FALSE,28,Orthopedics
+"4/28/2023 14:21",April,Friday,"2:00 PM",261-68-3689,F,6,,Hedditeh,"Two or More Races",FALSE,45,Orthopedics
+"4/30/2023 0:26",April,Sunday,"12:00 AM",457-93-2979,F,53,,Snelgrove,White,TRUE,45,Orthopedics
+"4/30/2023 12:40",April,Sunday,"12:00 PM",386-33-3422,M,8,3,Kemball,"African American",TRUE,51,Orthopedics
+"5/1/2023 7:11",May,Monday,"7:00 AM",409-22-8805,F,59,,Ayton,White,TRUE,37,Orthopedics
+"5/2/2023 0:33",May,Tuesday,"12:00 AM",408-29-0501,M,25,,Evenett,White,TRUE,26,Orthopedics
+"5/2/2023 21:04",May,Tuesday,"9:00 PM",773-37-3969,F,51,,Gagie,White,FALSE,42,Orthopedics
+"5/3/2023 10:25",May,Wednesday,"10:00 AM",409-52-4416,F,74,,Gately,"African American",FALSE,43,Orthopedics
+"5/4/2023 5:37",May,Thursday,"5:00 AM",755-96-0530,M,9,1,McAndie,"African American",TRUE,60,Orthopedics
+"5/4/2023 17:27",May,Thursday,"5:00 PM",218-08-9169,M,61,10,Conn,Asian,TRUE,19,Orthopedics
+"5/4/2023 21:30",May,Thursday,"9:00 PM",809-51-1881,F,37,,Hollindale,"Two or More Races",TRUE,37,Orthopedics
+"5/4/2023 23:27",May,Thursday,"11:00 PM",722-78-9494,M,51,6,Blackstone,"Two or More Races",FALSE,60,Orthopedics
+"5/5/2023 7:56",May,Friday,"7:00 AM",482-47-8887,F,23,3,Fibbit,"African American",TRUE,58,Orthopedics
+"5/5/2023 8:57",May,Friday,"8:00 AM",770-08-4969,M,77,,Bidewell,White,FALSE,26,Orthopedics
+"5/5/2023 14:23",May,Friday,"2:00 PM",142-27-8439,F,4,5,Braam,White,FALSE,24,Orthopedics
+"5/6/2023 5:26",May,Saturday,"5:00 AM",689-86-6145,F,16,,Cordie,White,TRUE,22,Orthopedics
+"5/7/2023 4:30",May,Sunday,"4:00 AM",841-74-3492,F,10,5,Follis,White,TRUE,50,Orthopedics
+"5/7/2023 5:30",May,Sunday,"5:00 AM",824-52-5925,F,20,,Sinnatt,"Declined to Identify",TRUE,24,Orthopedics
+"5/9/2023 1:41",May,Tuesday,"1:00 AM",865-28-1195,M,66,,Elcy,White,TRUE,59,Orthopedics
+"5/9/2023 1:51",May,Tuesday,"1:00 AM",255-46-2640,F,2,1,Kinglesyd,"Two or More Races",FALSE,24,Orthopedics
+"5/10/2023 2:57",May,Wednesday,"2:00 AM",535-57-8080,M,45,,Leavry,Asian,FALSE,22,Orthopedics
+"5/10/2023 22:06",May,Wednesday,"10:00 PM",514-12-0922,F,19,,Traite,White,FALSE,28,Orthopedics
+"5/12/2023 7:12",May,Friday,"7:00 AM",427-28-6383,M,73,,Gallafant,"Two or More Races",FALSE,15,Orthopedics
+"5/12/2023 8:24",May,Friday,"8:00 AM",163-81-9187,F,8,,Bloxham,White,TRUE,23,Orthopedics
+"5/14/2023 9:51",May,Sunday,"9:00 AM",600-56-6481,M,67,,Malbon,Asian,FALSE,33,Orthopedics
+"5/16/2023 13:43",May,Tuesday,"1:00 PM",657-40-4330,M,46,,Proswell,"African American",TRUE,50,Orthopedics
+"5/16/2023 14:16",May,Tuesday,"2:00 PM",393-52-8450,M,74,6,Lauritsen,"African American",FALSE,24,Orthopedics
+"5/18/2023 1:08",May,Thursday,"1:00 AM",624-82-0024,M,52,2,Gensavage,White,TRUE,27,Orthopedics
+"5/18/2023 9:32",May,Thursday,"9:00 AM",386-77-8317,F,55,3,Mumbray,"Declined to Identify",TRUE,57,Orthopedics
+"5/18/2023 19:39",May,Thursday,"7:00 PM",649-47-0696,F,4,,Habble,"African American",FALSE,38,Orthopedics
+"5/20/2023 5:49",May,Saturday,"5:00 AM",168-97-3030,M,46,,Tinwell,"African American",TRUE,57,Orthopedics
+"5/20/2023 14:35",May,Saturday,"2:00 PM",105-30-2335,F,13,,Pinnell,White,TRUE,38,Orthopedics
+"5/20/2023 23:42",May,Saturday,"11:00 PM",585-31-9711,F,3,,Dagger,"Native American/Alaska Native",TRUE,37,Orthopedics
+"5/21/2023 1:57",May,Sunday,"1:00 AM",483-70-4436,M,4,6,Roark,White,FALSE,13,Orthopedics
+"5/21/2023 3:02",May,Sunday,"3:00 AM",171-75-9146,F,30,,Hearnah,White,TRUE,32,Orthopedics
+"5/21/2023 9:49",May,Sunday,"9:00 AM",334-81-1151,M,63,,Elsop,Asian,TRUE,51,Orthopedics
+"5/22/2023 1:05",May,Monday,"1:00 AM",176-25-2920,F,1,,Shanklin,"African American",TRUE,39,Orthopedics
+"5/22/2023 2:25",May,Monday,"2:00 AM",612-69-6427,M,38,,Stockings,White,TRUE,38,Orthopedics
+"5/22/2023 4:52",May,Monday,"4:00 AM",643-42-0906,F,46,,Barrett,"Two or More Races",FALSE,20,Orthopedics
+"5/22/2023 16:23",May,Monday,"4:00 PM",442-97-4394,F,60,,Deakins,"African American",FALSE,47,Orthopedics
+"5/22/2023 18:30",May,Monday,"6:00 PM",226-26-8565,M,40,,Broadhurst,"Pacific Islander",FALSE,51,Orthopedics
+"5/23/2023 17:24",May,Tuesday,"5:00 PM",340-40-0901,M,7,,Adamik,"African American",FALSE,60,Orthopedics
+"5/23/2023 23:10",May,Tuesday,"11:00 PM",458-41-3724,F,34,,Grim,"African American",FALSE,13,Orthopedics
+"5/25/2023 0:52",May,Thursday,"12:00 AM",842-01-2749,F,18,,Latore,"African American",TRUE,44,Orthopedics
+"5/25/2023 21:28",May,Thursday,"9:00 PM",333-09-7490,F,72,,Cawthery,"African American",TRUE,24,Orthopedics
+"5/26/2023 23:50",May,Friday,"11:00 PM",400-24-8755,M,31,,Lammertz,"African American",TRUE,52,Orthopedics
+"5/27/2023 2:42",May,Saturday,"2:00 AM",324-29-4700,M,41,,Bubb,"Declined to Identify",FALSE,13,Orthopedics
+"5/30/2023 3:07",May,Tuesday,"3:00 AM",203-70-6564,M,16,9,McGarvey,White,FALSE,60,Orthopedics
+"5/30/2023 3:45",May,Tuesday,"3:00 AM",169-60-7674,M,62,,Degoey,Asian,TRUE,29,Orthopedics
+"5/30/2023 11:54",May,Tuesday,"11:00 AM",176-25-3650,M,29,,Dundridge,Asian,FALSE,43,Orthopedics
+"5/30/2023 15:14",May,Tuesday,"3:00 PM",787-59-4271,M,23,3,McCole,Asian,TRUE,35,Orthopedics
+"5/31/2023 3:11",May,Wednesday,"3:00 AM",271-80-8403,M,27,,Riddoch,White,TRUE,33,Orthopedics
+"5/31/2023 13:47",May,Wednesday,"1:00 PM",694-75-1010,F,4,,Daspar,Asian,TRUE,15,Orthopedics
+"5/31/2023 20:44",May,Wednesday,"8:00 PM",457-25-0613,M,33,,Burnside,"African American",TRUE,24,Orthopedics
+"5/31/2023 22:24",May,Wednesday,"10:00 PM",454-88-2937,M,65,10,Hasker,Asian,TRUE,59,Orthopedics
+"6/1/2023 0:40",June,Thursday,"12:00 AM",835-45-5469,M,71,6,Jorat,White,FALSE,53,Orthopedics
+"6/1/2023 3:47",June,Thursday,"3:00 AM",763-41-5675,M,10,,Yardy,"Declined to Identify",TRUE,15,Orthopedics
+"6/1/2023 5:58",June,Thursday,"5:00 AM",825-28-0932,F,38,,Escoffier,"Two or More Races",FALSE,56,Orthopedics
+"6/1/2023 18:17",June,Thursday,"6:00 PM",139-06-1169,F,24,,Swann,Asian,TRUE,48,Orthopedics
+"6/1/2023 19:48",June,Thursday,"7:00 PM",439-09-4695,M,2,4,Bastiman,"Declined to Identify",TRUE,51,Orthopedics
+"6/2/2023 23:08",June,Friday,"11:00 PM",672-53-8285,M,64,,Matisse,"Declined to Identify",TRUE,44,Orthopedics
+"6/3/2023 4:20",June,Saturday,"4:00 AM",814-11-2492,F,64,,Fedorski,"African American",FALSE,43,Orthopedics
+"6/3/2023 4:29",June,Saturday,"4:00 AM",521-01-3986,F,12,4,Stych,"Declined to Identify",FALSE,57,Orthopedics
+"6/3/2023 12:16",June,Saturday,"12:00 PM",363-26-2671,F,25,4,Adran,"Native American/Alaska Native",FALSE,32,Orthopedics
+"6/3/2023 23:06",June,Saturday,"11:00 PM",357-89-2203,F,56,,McGonigal,White,FALSE,40,Orthopedics
+"6/4/2023 3:17",June,Sunday,"3:00 AM",673-50-9490,F,13,,Clout,Asian,TRUE,28,Orthopedics
+"6/5/2023 17:54",June,Monday,"5:00 PM",241-64-7642,M,40,3,Danielovitch,"African American",TRUE,40,Orthopedics
+"6/6/2023 1:28",June,Tuesday,"1:00 AM",821-53-2890,M,29,1,Lawrance,"African American",FALSE,18,Orthopedics
+"6/6/2023 20:19",June,Tuesday,"8:00 PM",509-15-9216,F,12,,Takkos,White,TRUE,60,Orthopedics
+"6/7/2023 3:15",June,Wednesday,"3:00 AM",759-38-2731,M,21,,Bonellie,"African American",TRUE,26,Orthopedics
+"6/8/2023 20:56",June,Thursday,"8:00 PM",622-23-4523,F,36,,Rizzillo,White,FALSE,19,Orthopedics
+"6/9/2023 15:48",June,Friday,"3:00 PM",419-82-3648,M,72,10,Duchasteau,Asian,FALSE,34,Orthopedics
+"6/10/2023 2:21",June,Saturday,"2:00 AM",402-45-4382,M,51,,Fitzpayn,Asian,TRUE,40,Orthopedics
+"6/10/2023 9:44",June,Saturday,"9:00 AM",120-71-9392,M,26,,Haet,White,TRUE,53,Orthopedics
+"6/10/2023 20:16",June,Saturday,"8:00 PM",228-41-0095,F,74,4,Leete,White,TRUE,32,Orthopedics
+"6/12/2023 0:01",June,Monday,"12:00 AM",608-66-3521,F,29,1,Coldbathe,White,FALSE,25,Orthopedics
+"6/12/2023 17:56",June,Monday,"5:00 PM",667-42-3519,M,54,,Timbrell,"Declined to Identify",TRUE,57,Orthopedics
+"6/12/2023 21:09",June,Monday,"9:00 PM",283-63-7892,F,4,,Hanigan,White,TRUE,14,Orthopedics
+"6/13/2023 9:29",June,Tuesday,"9:00 AM",179-75-0561,F,27,7,Pedler,"Native American/Alaska Native",TRUE,52,Orthopedics
+"6/13/2023 16:50",June,Tuesday,"4:00 PM",334-62-9552,F,54,,Butterick,White,FALSE,25,Orthopedics
+"6/13/2023 23:24",June,Tuesday,"11:00 PM",826-13-7323,M,60,7,Knagges,"African American",FALSE,26,Orthopedics
+"6/14/2023 9:46",June,Wednesday,"9:00 AM",824-26-7312,F,16,,Siuda,White,FALSE,48,Orthopedics
+"6/14/2023 18:44",June,Wednesday,"6:00 PM",470-65-1385,F,56,3,Davidowsky,Asian,FALSE,45,Orthopedics
+"6/15/2023 18:04",June,Thursday,"6:00 PM",296-03-8130,M,12,,Curteis,Asian,TRUE,52,Orthopedics
+"6/16/2023 18:11",June,Friday,"6:00 PM",774-50-3865,M,7,,Tilson,White,FALSE,22,Orthopedics
+"6/17/2023 2:02",June,Saturday,"2:00 AM",737-96-0035,M,54,,Britland,"Native American/Alaska Native",TRUE,47,Orthopedics
+"6/17/2023 19:15",June,Saturday,"7:00 PM",504-30-7957,F,77,,Cutbirth,"African American",TRUE,23,Orthopedics
+"6/17/2023 22:49",June,Saturday,"10:00 PM",615-29-6442,M,8,,Statersfield,"Two or More Races",TRUE,25,Orthopedics
+"6/18/2023 7:13",June,Sunday,"7:00 AM",552-28-2494,F,54,,Hanes,Asian,FALSE,23,Orthopedics
+"6/18/2023 16:34",June,Sunday,"4:00 PM",447-91-3077,M,40,4,Towers,Asian,FALSE,19,Orthopedics
+"6/19/2023 8:35",June,Monday,"8:00 AM",814-16-5063,F,78,,Sheasby,"Two or More Races",FALSE,47,Orthopedics
+"6/19/2023 21:12",June,Monday,"9:00 PM",711-16-5014,M,49,,Frostdyke,"African American",FALSE,18,Orthopedics
+"6/22/2023 23:34",June,Thursday,"11:00 PM",795-71-6463,F,12,,McCarty,Asian,FALSE,56,Orthopedics
+"6/23/2023 15:36",June,Friday,"3:00 PM",557-52-3003,F,9,3,Dupree,"Native American/Alaska Native",TRUE,38,Orthopedics
+"6/23/2023 16:24",June,Friday,"4:00 PM",219-45-8034,F,73,,Hakewell,"African American",FALSE,14,Orthopedics
+"6/24/2023 3:34",June,Saturday,"3:00 AM",221-75-5469,M,10,1,Trudgeon,"African American",FALSE,60,Orthopedics
+"6/24/2023 23:36",June,Saturday,"11:00 PM",160-36-8458,M,49,,Fredi,"Two or More Races",TRUE,60,Orthopedics
+"6/25/2023 10:18",June,Sunday,"10:00 AM",657-07-1234,F,28,,Giacobilio,"Pacific Islander",FALSE,13,Orthopedics
+"6/27/2023 6:21",June,Tuesday,"6:00 AM",884-65-0896,F,48,,Newgrosh,"African American",FALSE,54,Orthopedics
+"6/27/2023 10:27",June,Tuesday,"10:00 AM",124-40-1013,F,34,,Rasher,White,TRUE,43,Orthopedics
+"6/27/2023 11:20",June,Tuesday,"11:00 AM",751-06-2730,M,6,3,Threadgill,"African American",TRUE,30,Orthopedics
+"6/27/2023 12:17",June,Tuesday,"12:00 PM",236-97-7586,F,4,,"De la Zenne",White,FALSE,13,Orthopedics
+"6/27/2023 17:12",June,Tuesday,"5:00 PM",546-93-3891,M,42,,Beedie,"African American",FALSE,39,Orthopedics
+"6/29/2023 3:09",June,Thursday,"3:00 AM",651-29-6896,F,60,,Birdwhistell,"Native American/Alaska Native",FALSE,58,Orthopedics
+"6/29/2023 11:57",June,Thursday,"11:00 AM",493-57-5938,F,37,,Sherwen,Asian,FALSE,24,Orthopedics
+"6/29/2023 14:27",June,Thursday,"2:00 PM",178-52-1500,M,4,,Beavington,White,FALSE,59,Orthopedics
+"6/30/2023 9:07",June,Friday,"9:00 AM",778-27-5802,F,14,,Collymore,"African American",TRUE,60,Orthopedics
+"6/30/2023 14:19",June,Friday,"2:00 PM",297-74-6777,M,33,,Bartolomeu,White,TRUE,21,Orthopedics
+"7/1/2023 9:05",July,Saturday,"9:00 AM",610-81-3745,M,53,,Hing,White,TRUE,56,Orthopedics
+"7/1/2023 16:18",July,Saturday,"4:00 PM",854-45-3713,F,39,5,Riggulsford,"Two or More Races",TRUE,16,Orthopedics
+"7/2/2023 0:46",July,Sunday,"12:00 AM",702-38-3084,M,75,,Sinden,"African American",FALSE,17,Orthopedics
+"7/3/2023 14:40",July,Monday,"2:00 PM",500-31-0203,F,23,,Congdon,"Native American/Alaska Native",FALSE,11,Orthopedics
+"7/5/2023 0:36",July,Wednesday,"12:00 AM",748-29-8054,F,29,7,Wollers,"African American",FALSE,55,Orthopedics
+"7/7/2023 18:36",July,Friday,"6:00 PM",270-64-7975,M,11,,Gunston,"Two or More Races",TRUE,40,Orthopedics
+"7/8/2023 0:03",July,Saturday,"12:00 AM",310-55-5331,M,9,5,Goneau,"African American",FALSE,16,Orthopedics
+"7/9/2023 19:30",July,Sunday,"7:00 PM",876-79-7112,F,49,,Halfacre,White,TRUE,11,Orthopedics
+"7/9/2023 23:09",July,Sunday,"11:00 PM",431-19-3103,M,17,,Verrick,"Two or More Races",TRUE,17,Orthopedics
+"7/10/2023 2:24",July,Monday,"2:00 AM",728-34-1870,F,13,,Duester,"Native American/Alaska Native",FALSE,30,Orthopedics
+"7/10/2023 12:32",July,Monday,"12:00 PM",696-86-5614,F,44,9,Winfrey,"Pacific Islander",TRUE,15,Orthopedics
+"7/10/2023 13:34",July,Monday,"1:00 PM",517-09-3692,M,34,,Stanyland,"African American",FALSE,58,Orthopedics
+"7/12/2023 9:35",July,Wednesday,"9:00 AM",831-25-4717,M,31,,McGriffin,White,TRUE,58,Orthopedics
+"7/12/2023 13:12",July,Wednesday,"1:00 PM",285-41-0221,M,39,,Aggiss,"Two or More Races",FALSE,52,Orthopedics
+"7/12/2023 19:18",July,Wednesday,"7:00 PM",558-14-1217,M,53,8,Lead,"Native American/Alaska Native",TRUE,51,Orthopedics
+"7/13/2023 2:40",July,Thursday,"2:00 AM",854-88-8632,M,59,,Fassan,"African American",TRUE,36,Orthopedics
+"7/13/2023 6:12",July,Thursday,"6:00 AM",557-05-5863,M,64,,Gillford,"Two or More Races",FALSE,29,Orthopedics
+"7/13/2023 9:49",July,Thursday,"9:00 AM",647-52-7688,M,32,4,Worham,White,FALSE,51,Orthopedics
+"7/13/2023 15:30",July,Thursday,"3:00 PM",204-52-5423,F,11,,Lobe,White,FALSE,55,Orthopedics
+"7/13/2023 19:48",July,Thursday,"7:00 PM",734-01-2423,F,1,,Oleshunin,"African American",TRUE,40,Orthopedics
+"7/15/2023 0:14",July,Saturday,"12:00 AM",270-81-6460,M,12,,Blessed,"Declined to Identify",TRUE,38,Orthopedics
+"7/15/2023 16:49",July,Saturday,"4:00 PM",429-49-3591,F,6,,Polon,"African American",FALSE,44,Orthopedics
+"7/15/2023 21:07",July,Saturday,"9:00 PM",398-45-7125,F,11,,Butler,"African American",TRUE,11,Orthopedics
+"7/16/2023 2:15",July,Sunday,"2:00 AM",763-35-7575,F,78,,Snarie,"Declined to Identify",FALSE,51,Orthopedics
+"7/16/2023 3:12",July,Sunday,"3:00 AM",186-48-7416,F,7,3,Abbotson,White,TRUE,24,Orthopedics
+"7/16/2023 5:20",July,Sunday,"5:00 AM",774-12-1839,M,74,,Toplis,Asian,TRUE,56,Orthopedics
+"7/16/2023 13:29",July,Sunday,"1:00 PM",703-94-1485,F,68,,Morey,Asian,TRUE,15,Orthopedics
+"7/17/2023 13:56",July,Monday,"1:00 PM",508-93-6274,F,65,2,Moorman,"Pacific Islander",FALSE,34,Orthopedics
+"7/17/2023 22:52",July,Monday,"10:00 PM",531-80-4313,F,44,,Finnick,"Pacific Islander",FALSE,47,Orthopedics
+"7/18/2023 7:11",July,Tuesday,"7:00 AM",715-62-6956,M,9,3,Iltchev,White,FALSE,58,Orthopedics
+"7/19/2023 4:21",July,Wednesday,"4:00 AM",465-96-7433,F,57,,Willshee,"African American",TRUE,30,Orthopedics
+"7/19/2023 6:27",July,Wednesday,"6:00 AM",418-68-8857,F,4,,Sawkin,"African American",FALSE,58,Orthopedics
+"7/19/2023 8:58",July,Wednesday,"8:00 AM",744-52-3785,M,60,,Josuweit,White,TRUE,47,Orthopedics
+"7/19/2023 13:58",July,Wednesday,"1:00 PM",731-24-5816,M,19,,Snoxall,"African American",TRUE,34,Orthopedics
+"7/20/2023 0:00",July,Thursday,"12:00 AM",360-05-3720,F,22,1,Francesch,White,TRUE,15,Orthopedics
+"7/20/2023 5:50",July,Thursday,"5:00 AM",452-87-5629,M,50,5,Wilgar,"African American",FALSE,49,Orthopedics
+"7/20/2023 13:34",July,Thursday,"1:00 PM",875-57-2036,F,3,,Raggles,Asian,FALSE,30,Orthopedics
+"7/20/2023 19:15",July,Thursday,"7:00 PM",623-89-4272,F,51,,Pobjay,White,TRUE,26,Orthopedics
+"7/21/2023 0:52",July,Friday,"12:00 AM",632-49-6543,F,28,,Pagel,White,FALSE,10,Orthopedics
+"7/21/2023 1:30",July,Friday,"1:00 AM",673-44-9918,F,67,,Lindelof,White,TRUE,34,Orthopedics
+"7/21/2023 6:09",July,Friday,"6:00 AM",128-72-0119,M,51,,Irce,White,TRUE,27,Orthopedics
+"7/21/2023 12:51",July,Friday,"12:00 PM",342-05-3969,F,16,,Sinnott,White,FALSE,36,Orthopedics
+"7/21/2023 14:09",July,Friday,"2:00 PM",318-50-0134,M,48,6,Gutowska,White,FALSE,44,Orthopedics
+"7/24/2023 18:25",July,Monday,"6:00 PM",129-25-8655,F,73,5,Pimer,White,TRUE,19,Orthopedics
+"7/24/2023 20:13",July,Monday,"8:00 PM",853-27-4550,M,53,,Kewzick,"African American",FALSE,20,Orthopedics
+"7/25/2023 5:49",July,Tuesday,"5:00 AM",259-41-9306,M,25,,Woolvin,Asian,FALSE,49,Orthopedics
+"7/25/2023 8:58",July,Tuesday,"8:00 AM",464-44-5970,M,74,,Turneaux,"African American",FALSE,28,Orthopedics
+"7/25/2023 10:58",July,Tuesday,"10:00 AM",142-34-3319,M,14,,Wethey,"Declined to Identify",TRUE,25,Orthopedics
+"7/25/2023 14:28",July,Tuesday,"2:00 PM",547-76-7829,M,77,,Dyson,"African American",TRUE,25,Orthopedics
+"7/26/2023 1:12",July,Wednesday,"1:00 AM",216-85-2300,F,29,,Kenforth,"Two or More Races",FALSE,38,Orthopedics
+"7/27/2023 5:03",July,Thursday,"5:00 AM",789-50-5483,M,73,4,Wickstead,"Declined to Identify",FALSE,35,Orthopedics
+"7/27/2023 13:05",July,Thursday,"1:00 PM",800-66-2051,M,28,5,Plastow,White,FALSE,60,Orthopedics
+"7/28/2023 7:27",July,Friday,"7:00 AM",793-29-8977,F,49,,Gentric,"Pacific Islander",TRUE,39,Orthopedics
+"7/29/2023 13:55",July,Saturday,"1:00 PM",656-57-4812,F,74,,Lowing,"Declined to Identify",FALSE,49,Orthopedics
+"7/29/2023 18:50",July,Saturday,"6:00 PM",857-74-9716,F,28,,Brownill,White,FALSE,40,Orthopedics
+"7/29/2023 21:43",July,Saturday,"9:00 PM",432-18-6164,F,11,,Thouless,"African American",TRUE,23,Orthopedics
+"7/30/2023 22:16",July,Sunday,"10:00 PM",394-04-2226,M,7,,Fargie,"Two or More Races",TRUE,27,Orthopedics
+"7/30/2023 23:13",July,Sunday,"11:00 PM",776-13-4447,M,16,,Curness,"Two or More Races",FALSE,33,Orthopedics
+"7/31/2023 2:59",July,Monday,"2:00 AM",255-15-5945,M,44,,Shortcliffe,"Pacific Islander",TRUE,30,Orthopedics
+"7/31/2023 15:22",July,Monday,"3:00 PM",718-40-9446,F,31,1,Mitrikhin,"Two or More Races",FALSE,55,Orthopedics
+"8/1/2023 8:55",August,Tuesday,"8:00 AM",250-44-9023,F,7,6,Paaso,"Native American/Alaska Native",FALSE,15,Orthopedics
+"8/1/2023 17:18",August,Tuesday,"5:00 PM",283-07-6389,M,46,5,Kildea,White,FALSE,51,Orthopedics
+"8/2/2023 0:06",August,Wednesday,"12:00 AM",398-76-7789,F,50,,Putt,"Declined to Identify",FALSE,26,Orthopedics
+"8/2/2023 16:14",August,Wednesday,"4:00 PM",427-61-4630,M,27,6,MacFarland,White,FALSE,37,Orthopedics
+"8/2/2023 18:44",August,Wednesday,"6:00 PM",138-91-1480,M,19,,Rushbrook,"African American",FALSE,11,Orthopedics
+"8/3/2023 1:27",August,Thursday,"1:00 AM",690-03-4668,M,61,,Stonard,"Two or More Races",TRUE,18,Orthopedics
+"8/3/2023 7:14",August,Thursday,"7:00 AM",610-42-3028,M,6,,Coghill,"African American",FALSE,42,Orthopedics
+"8/3/2023 8:24",August,Thursday,"8:00 AM",802-14-1812,M,61,7,Methven,Asian,TRUE,52,Orthopedics
+"8/3/2023 18:41",August,Thursday,"6:00 PM",614-30-7245,F,6,,Blinder,White,FALSE,24,Orthopedics
+"8/4/2023 19:52",August,Friday,"7:00 PM",398-53-4396,M,28,6,Dunsford,"Native American/Alaska Native",FALSE,40,Orthopedics
+"8/4/2023 22:30",August,Friday,"10:00 PM",171-97-5054,F,46,9,MacCosto,"Two or More Races",FALSE,30,Orthopedics
+"8/6/2023 16:10",August,Sunday,"4:00 PM",807-93-0539,M,19,4,Sawter,"Declined to Identify",TRUE,25,Orthopedics
+"8/7/2023 15:37",August,Monday,"3:00 PM",225-49-2583,M,4,,Vinsen,White,FALSE,40,Orthopedics
+"8/8/2023 1:32",August,Tuesday,"1:00 AM",644-37-7174,M,25,,Hornig,"Two or More Races",FALSE,44,Orthopedics
+"8/8/2023 5:21",August,Tuesday,"5:00 AM",879-09-0173,M,53,,Daal,"Declined to Identify",TRUE,20,Orthopedics
+"8/8/2023 21:48",August,Tuesday,"9:00 PM",185-45-4039,F,28,6,Palphreyman,White,FALSE,12,Orthopedics
+"8/9/2023 0:34",August,Wednesday,"12:00 AM",644-62-8312,M,60,4,Bille,"Declined to Identify",FALSE,28,Orthopedics
+"8/9/2023 3:12",August,Wednesday,"3:00 AM",544-63-0784,M,74,,Cappleman,"Native American/Alaska Native",FALSE,56,Orthopedics
+"8/9/2023 8:03",August,Wednesday,"8:00 AM",225-66-0995,F,46,,Verden,"African American",TRUE,53,Orthopedics
+"8/10/2023 2:38",August,Thursday,"2:00 AM",760-33-4176,F,45,,Dear,White,FALSE,57,Orthopedics
+"8/10/2023 22:43",August,Thursday,"10:00 PM",450-09-5808,M,3,,Saladine,White,TRUE,31,Orthopedics
+"8/12/2023 6:04",August,Saturday,"6:00 AM",612-63-4048,M,24,10,Stodart,"African American",FALSE,58,Orthopedics
+"8/12/2023 7:57",August,Saturday,"7:00 AM",395-80-7937,M,24,,Knagges,White,FALSE,46,Orthopedics
+"8/12/2023 8:26",August,Saturday,"8:00 AM",543-30-7171,M,12,,Canty,White,FALSE,60,Orthopedics
+"8/12/2023 14:46",August,Saturday,"2:00 PM",822-41-7734,F,27,,Dowall,"Two or More Races",FALSE,52,Orthopedics
+"8/13/2023 3:57",August,Sunday,"3:00 AM",472-80-8183,M,19,1,Simner,White,FALSE,52,Orthopedics
+"8/14/2023 5:58",August,Monday,"5:00 AM",825-27-0713,F,59,,Doumer,"Native American/Alaska Native",FALSE,35,Orthopedics
+"8/14/2023 6:20",August,Monday,"6:00 AM",102-21-5953,F,49,,Annett,White,FALSE,11,Orthopedics
+"8/14/2023 19:05",August,Monday,"7:00 PM",490-05-6824,M,68,,Chasle,"African American",TRUE,28,Orthopedics
+"8/15/2023 5:41",August,Tuesday,"5:00 AM",368-31-2124,F,69,,Sealeaf,Asian,FALSE,45,Orthopedics
+"8/15/2023 13:07",August,Tuesday,"1:00 PM",866-26-1903,M,8,3,Jerson,Asian,FALSE,24,Orthopedics
+"8/15/2023 17:50",August,Tuesday,"5:00 PM",107-19-6298,M,28,,Clendennen,Asian,FALSE,10,Orthopedics
+"8/15/2023 22:19",August,Tuesday,"10:00 PM",171-10-8865,M,73,,Dugue,White,TRUE,38,Orthopedics
+"8/16/2023 16:11",August,Wednesday,"4:00 PM",676-74-9268,M,64,,Aspinwall,"Declined to Identify",TRUE,51,Orthopedics
+"8/17/2023 21:33",August,Thursday,"9:00 PM",143-12-4621,F,66,,Brindle,"African American",FALSE,52,Orthopedics
+"8/19/2023 22:53",August,Saturday,"10:00 PM",564-01-7734,M,52,,Tomblett,"African American",TRUE,22,Orthopedics
+"8/20/2023 12:43",August,Sunday,"12:00 PM",185-30-4496,M,52,3,"de Guise","Declined to Identify",TRUE,56,Orthopedics
+"8/20/2023 17:49",August,Sunday,"5:00 PM",818-07-9151,M,15,,Trengrouse,"Two or More Races",TRUE,42,Orthopedics
+"8/21/2023 4:20",August,Monday,"4:00 AM",849-30-0675,M,35,,Fitzsimon,"Two or More Races",FALSE,15,Orthopedics
+"8/23/2023 16:34",August,Wednesday,"4:00 PM",225-31-4539,M,56,10,Wisby,"Two or More Races",TRUE,60,Orthopedics
+"8/24/2023 17:39",August,Thursday,"5:00 PM",560-19-5168,M,66,,Conew,Asian,TRUE,13,Orthopedics
+"8/24/2023 19:38",August,Thursday,"7:00 PM",511-74-2373,M,73,,Bromont,"Declined to Identify",TRUE,18,Orthopedics
+"8/25/2023 5:37",August,Friday,"5:00 AM",263-15-6279,F,68,,Asplen,White,FALSE,57,Orthopedics
+"8/25/2023 17:02",August,Friday,"5:00 PM",227-33-6424,M,32,,Rothert,Asian,FALSE,34,Orthopedics
+"8/25/2023 18:04",August,Friday,"6:00 PM",483-56-5234,M,7,,Pash,White,FALSE,34,Orthopedics
+"8/26/2023 6:28",August,Saturday,"6:00 AM",892-79-0205,M,67,6,Muslim,Asian,FALSE,29,Orthopedics
+"8/26/2023 18:23",August,Saturday,"6:00 PM",705-06-3874,M,79,,Schurcke,"Two or More Races",FALSE,18,Orthopedics
+"8/26/2023 21:08",August,Saturday,"9:00 PM",619-67-1876,M,55,8,Scholling,"Declined to Identify",TRUE,55,Orthopedics
+"8/28/2023 15:48",August,Monday,"3:00 PM",604-19-2040,F,54,6,Founds,"Two or More Races",FALSE,30,Orthopedics
+"8/28/2023 22:33",August,Monday,"10:00 PM",875-56-3403,F,64,3,Hornbuckle,"African American",FALSE,34,Orthopedics
+"8/29/2023 6:21",August,Tuesday,"6:00 AM",750-10-6392,F,64,,Babin,White,FALSE,43,Orthopedics
+"8/30/2023 2:12",August,Wednesday,"2:00 AM",494-29-1509,M,36,9,Dawdary,"Two or More Races",TRUE,23,Orthopedics
+"8/30/2023 12:06",August,Wednesday,"12:00 PM",313-71-4006,M,21,,Lamputt,White,TRUE,58,Orthopedics
+"9/1/2023 2:23",September,Friday,"2:00 AM",352-98-0907,M,64,,Saywell,"African American",FALSE,47,Orthopedics
+"9/1/2023 17:23",September,Friday,"5:00 PM",776-73-0164,M,39,2,Ridoutt,"Declined to Identify",TRUE,30,Orthopedics
+"9/3/2023 4:30",September,Sunday,"4:00 AM",103-94-9474,F,68,,Ronald,"African American",TRUE,30,Orthopedics
+"9/4/2023 2:17",September,Monday,"2:00 AM",182-69-5382,M,21,,Lott,"Two or More Races",TRUE,12,Orthopedics
+"9/4/2023 6:27",September,Monday,"6:00 AM",860-43-2537,M,31,,Wessel,"Declined to Identify",TRUE,19,Orthopedics
+"9/4/2023 17:48",September,Monday,"5:00 PM",289-26-0537,M,5,,Gionettitti,"African American",FALSE,10,Orthopedics
+"9/5/2023 19:04",September,Tuesday,"7:00 PM",557-77-2197,M,29,7,Weir,"African American",FALSE,54,Orthopedics
+"9/6/2023 3:13",September,Wednesday,"3:00 AM",124-28-5022,M,8,,Lomasna,White,FALSE,56,Orthopedics
+"9/6/2023 10:01",September,Wednesday,"10:00 AM",605-02-4485,F,38,,Elam,"Declined to Identify",FALSE,21,Orthopedics
+"9/6/2023 17:40",September,Wednesday,"5:00 PM",737-03-7902,F,20,,Stanion,White,FALSE,55,Orthopedics
+"9/7/2023 18:11",September,Thursday,"6:00 PM",670-84-1971,M,67,1,Goodsell,White,TRUE,16,Orthopedics
+"9/7/2023 20:49",September,Thursday,"8:00 PM",791-85-2268,M,15,,Crudgington,"African American",TRUE,18,Orthopedics
+"9/9/2023 16:42",September,Saturday,"4:00 PM",714-35-6722,M,31,,Baldetti,Asian,FALSE,22,Orthopedics
+"9/10/2023 6:36",September,Sunday,"6:00 AM",597-02-5455,F,5,,Schleicher,"African American",TRUE,30,Orthopedics
+"9/10/2023 12:18",September,Sunday,"12:00 PM",384-72-1340,F,15,,Duester,Asian,TRUE,55,Orthopedics
+"9/10/2023 20:45",September,Sunday,"8:00 PM",864-61-2647,M,35,5,Bonnesen,"Two or More Races",TRUE,16,Orthopedics
+"9/12/2023 0:53",September,Tuesday,"12:00 AM",576-52-5777,M,41,,Carratt,"African American",TRUE,28,Orthopedics
+"9/12/2023 3:16",September,Tuesday,"3:00 AM",181-37-8210,M,7,,Lie,"Declined to Identify",TRUE,54,Orthopedics
+"9/12/2023 8:50",September,Tuesday,"8:00 AM",723-91-6052,F,43,,Alday,"African American",TRUE,25,Orthopedics
+"9/16/2023 16:47",September,Saturday,"4:00 PM",664-02-2390,F,62,5,Buddle,White,FALSE,25,Orthopedics
+"9/17/2023 11:51",September,Sunday,"11:00 AM",696-40-8856,M,27,,Blowing,"African American",TRUE,27,Orthopedics
+"9/17/2023 16:19",September,Sunday,"4:00 PM",408-56-0055,F,55,,MacMenamin,"Pacific Islander",TRUE,14,Orthopedics
+"9/17/2023 16:26",September,Sunday,"4:00 PM",393-79-0056,F,75,,Murkin,"Declined to Identify",TRUE,21,Orthopedics
+"9/17/2023 23:03",September,Sunday,"11:00 PM",222-46-6969,M,49,,Livoir,"Declined to Identify",FALSE,60,Orthopedics
+"9/18/2023 15:26",September,Monday,"3:00 PM",522-11-6573,M,48,,Koba,White,FALSE,29,Orthopedics
+"9/18/2023 15:55",September,Monday,"3:00 PM",341-41-1657,M,76,5,Prettejohns,Asian,FALSE,13,Orthopedics
+"9/18/2023 17:49",September,Monday,"5:00 PM",818-26-8196,M,26,8,MacNally,"African American",TRUE,38,Orthopedics
+"9/19/2023 14:14",September,Tuesday,"2:00 PM",688-49-8033,F,17,,Prandin,"African American",TRUE,51,Orthopedics
+"9/19/2023 18:34",September,Tuesday,"6:00 PM",274-79-2232,F,55,,Murty,"Pacific Islander",FALSE,49,Orthopedics
+"9/20/2023 6:12",September,Wednesday,"6:00 AM",317-19-5775,M,39,3,Fossett,White,TRUE,32,Orthopedics
+"9/21/2023 2:11",September,Thursday,"2:00 AM",651-52-1504,M,15,,Brockley,"Pacific Islander",FALSE,45,Orthopedics
+"9/21/2023 9:29",September,Thursday,"9:00 AM",139-07-0452,M,20,3,McGarva,"Declined to Identify",TRUE,57,Orthopedics
+"9/21/2023 21:12",September,Thursday,"9:00 PM",791-12-6186,M,68,,Thomann,Asian,FALSE,22,Orthopedics
+"9/22/2023 9:36",September,Friday,"9:00 AM",627-11-7847,M,59,,Smithies,White,TRUE,13,Orthopedics
+"9/22/2023 11:05",September,Friday,"11:00 AM",372-37-2243,M,22,,Berendsen,"Two or More Races",TRUE,20,Orthopedics
+"9/23/2023 18:59",September,Saturday,"6:00 PM",480-22-9841,F,37,,Wrefford,"Declined to Identify",FALSE,59,Orthopedics
+"9/23/2023 21:45",September,Saturday,"9:00 PM",214-51-6611,M,55,,Rivitt,"African American",TRUE,12,Orthopedics
+"9/24/2023 0:53",September,Sunday,"12:00 AM",551-13-2462,M,69,6,Sant,"African American",FALSE,28,Orthopedics
+"9/25/2023 21:19",September,Monday,"9:00 PM",148-91-1392,F,67,,Tumioto,"Two or More Races",TRUE,33,Orthopedics
+"9/25/2023 23:55",September,Monday,"11:00 PM",314-59-0387,M,14,,Dallewater,"Native American/Alaska Native",TRUE,52,Orthopedics
+"9/26/2023 1:10",September,Tuesday,"1:00 AM",515-35-7484,F,2,,Kensley,White,FALSE,14,Orthopedics
+"9/26/2023 10:01",September,Tuesday,"10:00 AM",496-61-3003,M,39,2,Hayter,"Two or More Races",TRUE,21,Orthopedics
+"9/28/2023 1:43",September,Thursday,"1:00 AM",611-43-2271,M,79,,Llorente,"Declined to Identify",TRUE,27,Orthopedics
+"9/28/2023 16:44",September,Thursday,"4:00 PM",289-70-6054,M,32,2,Edworthie,White,TRUE,22,Orthopedics
+"9/29/2023 4:06",September,Friday,"4:00 AM",658-82-9991,M,7,9,Roscher,"Pacific Islander",TRUE,45,Orthopedics
+"9/30/2023 3:31",September,Saturday,"3:00 AM",764-69-8400,M,79,2,Osorio,White,FALSE,21,Orthopedics
+"9/30/2023 19:55",September,Saturday,"7:00 PM",122-73-4557,F,2,,Godar,"African American",FALSE,23,Orthopedics
+"10/1/2023 8:56",October,Sunday,"8:00 AM",611-71-8999,F,33,,Kmietsch,"Native American/Alaska Native",FALSE,17,Orthopedics
+"10/2/2023 8:22",October,Monday,"8:00 AM",279-74-0305,M,2,8,Rotte,White,TRUE,16,Orthopedics
+"10/3/2023 21:50",October,Tuesday,"9:00 PM",795-20-4901,F,67,,Glossup,White,FALSE,53,Orthopedics
+"10/3/2023 23:40",October,Tuesday,"11:00 PM",717-51-2915,F,7,,Shiels,White,TRUE,32,Orthopedics
+"10/4/2023 2:11",October,Wednesday,"2:00 AM",724-59-7143,F,24,10,Trewhella,White,FALSE,31,Orthopedics
+"10/4/2023 3:13",October,Wednesday,"3:00 AM",513-30-4773,M,71,8,Andress,"African American",FALSE,38,Orthopedics
+"10/4/2023 13:53",October,Wednesday,"1:00 PM",195-26-8178,F,18,,Orrett,White,TRUE,27,Orthopedics
+"10/4/2023 17:06",October,Wednesday,"5:00 PM",545-22-1531,F,1,,Budnk,White,TRUE,22,Orthopedics
+"10/5/2023 14:35",October,Thursday,"2:00 PM",729-35-9748,F,45,,McCanny,White,TRUE,44,Orthopedics
+"10/7/2023 1:24",October,Saturday,"1:00 AM",552-17-8075,M,15,,Threlkeld,"Two or More Races",FALSE,35,Orthopedics
+"10/7/2023 8:06",October,Saturday,"8:00 AM",142-78-7156,M,15,,Peller,White,FALSE,36,Orthopedics
+"10/8/2023 22:18",October,Sunday,"10:00 PM",801-75-4801,F,38,,McShee,"African American",FALSE,35,Orthopedics
+"10/9/2023 0:44",October,Monday,"12:00 AM",698-20-8468,F,23,,Bohlsen,"African American",FALSE,33,Orthopedics
+"10/9/2023 1:38",October,Monday,"1:00 AM",590-94-5630,F,77,,Klementz,Asian,FALSE,26,Orthopedics
+"10/9/2023 2:46",October,Monday,"2:00 AM",589-07-2378,F,65,,Lindores,"Two or More Races",FALSE,54,Orthopedics
+"10/9/2023 7:54",October,Monday,"7:00 AM",769-26-7401,M,75,,Blackstock,"African American",FALSE,51,Orthopedics
+"10/11/2023 8:23",October,Wednesday,"8:00 AM",385-79-2506,M,57,10,Haile,White,FALSE,15,Orthopedics
+"10/11/2023 9:50",October,Wednesday,"9:00 AM",602-47-8260,M,52,,Emloch,"African American",FALSE,38,Orthopedics
+"10/11/2023 12:33",October,Wednesday,"12:00 PM",887-69-1907,F,35,,Dowker,Asian,TRUE,27,Orthopedics
+"10/11/2023 18:53",October,Wednesday,"6:00 PM",631-01-2994,M,67,,Guinan,White,TRUE,20,Orthopedics
+"10/12/2023 10:39",October,Thursday,"10:00 AM",437-30-1210,M,60,,Derle,White,FALSE,12,Orthopedics
+"10/12/2023 12:53",October,Thursday,"12:00 PM",267-77-7081,F,46,3,Heavy,Asian,TRUE,38,Orthopedics
+"10/12/2023 16:16",October,Thursday,"4:00 PM",796-98-4459,F,68,,Outram,"African American",TRUE,60,Orthopedics
+"10/13/2023 2:23",October,Friday,"2:00 AM",204-51-5061,F,64,2,Thys,"Native American/Alaska Native",FALSE,50,Orthopedics
+"10/15/2023 13:34",October,Sunday,"1:00 PM",829-92-4746,M,47,5,Cratchley,"African American",TRUE,53,Orthopedics
+"10/16/2023 1:28",October,Monday,"1:00 AM",390-95-2404,M,49,,Gabe,"Declined to Identify",FALSE,46,Orthopedics
+"10/16/2023 23:01",October,Monday,"11:00 PM",335-70-9921,F,76,,Quinby,White,FALSE,56,Orthopedics
+"10/17/2023 20:55",October,Tuesday,"8:00 PM",341-94-2072,M,49,2,Fashion,"Pacific Islander",FALSE,30,Orthopedics
+"10/18/2023 0:08",October,Wednesday,"12:00 AM",279-67-2224,M,30,4,Gainsboro,White,TRUE,14,Orthopedics
+"10/20/2023 12:24",October,Friday,"12:00 PM",401-65-8779,M,58,,Timms,White,TRUE,21,Orthopedics
+"10/20/2023 15:20",October,Friday,"3:00 PM",866-67-5375,M,27,1,Duffield,White,TRUE,58,Orthopedics
+"10/21/2023 11:48",October,Saturday,"11:00 AM",731-75-7101,F,64,,Simkovitz,"African American",TRUE,30,Orthopedics
+"10/21/2023 12:05",October,Saturday,"12:00 PM",520-32-2321,F,35,4,Antrack,"Two or More Races",FALSE,13,Orthopedics
+"10/21/2023 19:51",October,Saturday,"7:00 PM",229-27-7861,M,41,7,Attwater,White,TRUE,10,Orthopedics
+"10/21/2023 19:52",October,Saturday,"7:00 PM",675-74-4830,F,75,,MacCosto,"Two or More Races",FALSE,53,Orthopedics
+"10/22/2023 4:32",October,Sunday,"4:00 AM",124-36-9054,F,44,,"Le Clercq","African American",FALSE,38,Orthopedics
+"10/22/2023 9:59",October,Sunday,"9:00 AM",425-90-5163,M,63,7,Hawtrey,White,FALSE,37,Orthopedics
+"10/22/2023 15:41",October,Sunday,"3:00 PM",544-20-1544,M,31,,Leyrroyd,White,TRUE,17,Orthopedics
+"10/22/2023 17:21",October,Sunday,"5:00 PM",878-59-3101,F,38,1,Lawful,"African American",TRUE,39,Orthopedics
+"10/24/2023 6:16",October,Tuesday,"6:00 AM",491-79-2938,F,15,,Courage,White,FALSE,30,Orthopedics
+"10/24/2023 7:25",October,Tuesday,"7:00 AM",713-55-4167,F,52,,Somerscales,White,FALSE,23,Orthopedics
+"10/25/2023 19:27",October,Wednesday,"7:00 PM",801-66-2184,M,56,,Hearon,White,FALSE,17,Orthopedics
+"10/26/2023 5:28",October,Thursday,"5:00 AM",537-09-7772,F,3,,Mallia,White,TRUE,33,Orthopedics
+"10/26/2023 16:02",October,Thursday,"4:00 PM",463-91-4655,M,70,,Oxtaby,"African American",TRUE,16,Orthopedics
+"10/26/2023 16:09",October,Thursday,"4:00 PM",284-78-4415,M,16,,Creeghan,"Declined to Identify",TRUE,15,Orthopedics
+"10/27/2023 0:20",October,Friday,"12:00 AM",426-82-0991,F,7,10,Quartermain,White,TRUE,31,Orthopedics
+"10/27/2023 17:08",October,Friday,"5:00 PM",382-83-8347,M,58,,Grenshields,"African American",TRUE,14,Orthopedics
+"10/27/2023 17:26",October,Friday,"5:00 PM",562-51-1610,M,24,,Coats,"Declined to Identify",TRUE,57,Orthopedics
+"10/28/2023 2:40",October,Saturday,"2:00 AM",558-19-1783,M,28,,Garaghan,"African American",TRUE,27,Orthopedics
+"10/28/2023 8:29",October,Saturday,"8:00 AM",683-71-6277,M,67,7,Batistelli,White,TRUE,43,Orthopedics
+"10/28/2023 21:50",October,Saturday,"9:00 PM",141-16-6774,M,51,,Bakewell,"Pacific Islander",FALSE,18,Orthopedics
+"10/29/2023 18:40",October,Sunday,"6:00 PM",213-73-5378,M,27,,Strangeway,Asian,FALSE,43,Orthopedics
+"10/30/2023 0:29",October,Monday,"12:00 AM",331-79-8648,F,36,,Ayerst,"Native American/Alaska Native",TRUE,47,Orthopedics
+"10/30/2023 2:12",October,Monday,"2:00 AM",628-46-3223,F,13,5,Wardle,"Two or More Races",TRUE,45,Orthopedics
